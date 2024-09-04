@@ -1,0 +1,6 @@
+fastapi
+pydantic
+youtube-transcript-api
+uvicorn
+requests
+python-dotenv
